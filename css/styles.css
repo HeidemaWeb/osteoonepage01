@@ -170,11 +170,15 @@ footer {
 #page1 .osteoshort {
 	margin-top: 60px;
 }
+#page1 h1 {
+	font-size: 30px;
+	font-weight: bold;
+}
 #page1 .osteoshort ul li {
 	font-size: 21px;
 }
 #page1 p {
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 }
 
 #page2 {
